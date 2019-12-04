@@ -1,0 +1,17 @@
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqConsumerArtist\bin\Debug\netcoreapp3.0\RabbitMqConsumerArtist.exe
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqConsumerArtist\obj\Debug\netcoreapp3.0\RabbitMqConsumerArtist.csprojAssemblyReference.cache
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqConsumerArtist\obj\Debug\netcoreapp3.0\RabbitMqConsumerArtist.AssemblyInfoInputs.cache
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqConsumerArtist\obj\Debug\netcoreapp3.0\RabbitMqConsumerArtist.AssemblyInfo.cs
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqConsumerArtist\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqConsumerArtist\obj\Debug\netcoreapp3.0\RabbitMqConsumerArtist.csproj.CopyComplete
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqConsumerArtist\bin\Debug\netcoreapp3.0\RabbitMqProducerV2.exe
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqConsumerArtist\bin\Debug\netcoreapp3.0\RabbitMqConsumerArtist.deps.json
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqConsumerArtist\bin\Debug\netcoreapp3.0\RabbitMqConsumerArtist.runtimeconfig.json
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqConsumerArtist\bin\Debug\netcoreapp3.0\RabbitMqConsumerArtist.runtimeconfig.dev.json
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqConsumerArtist\bin\Debug\netcoreapp3.0\RabbitMqConsumerArtist.dll
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqConsumerArtist\bin\Debug\netcoreapp3.0\RabbitMqConsumerArtist.pdb
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqConsumerArtist\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqConsumerArtist\bin\Debug\netcoreapp3.0\RabbitMqProducerV2.dll
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqConsumerArtist\bin\Debug\netcoreapp3.0\RabbitMqProducerV2.pdb
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqConsumerArtist\obj\Debug\netcoreapp3.0\RabbitMqConsumerArtist.dll
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqConsumerArtist\obj\Debug\netcoreapp3.0\RabbitMqConsumerArtist.pdb
