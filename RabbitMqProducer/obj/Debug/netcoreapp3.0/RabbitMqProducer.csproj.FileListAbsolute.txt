@@ -1,0 +1,14 @@
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqProducer\bin\Debug\netcoreapp3.0\RabbitMqProducer.exe
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqProducer\obj\Debug\netcoreapp3.0\RabbitMqProducer.csprojAssemblyReference.cache
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqProducer\obj\Debug\netcoreapp3.0\RabbitMqProducer.AssemblyInfoInputs.cache
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqProducer\obj\Debug\netcoreapp3.0\RabbitMqProducer.AssemblyInfo.cs
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqProducer\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqProducer\obj\Debug\netcoreapp3.0\RabbitMqProducer.csproj.CopyComplete
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqProducer\bin\Debug\netcoreapp3.0\RabbitMqProducer.deps.json
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqProducer\bin\Debug\netcoreapp3.0\RabbitMqProducer.runtimeconfig.json
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqProducer\bin\Debug\netcoreapp3.0\RabbitMqProducer.runtimeconfig.dev.json
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqProducer\bin\Debug\netcoreapp3.0\RabbitMqProducer.dll
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqProducer\bin\Debug\netcoreapp3.0\RabbitMqProducer.pdb
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqProducer\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqProducer\obj\Debug\netcoreapp3.0\RabbitMqProducer.dll
+C:\UmU\54806HT19-1\54806HT19-1-Lab3\RabbitMq\RabbitMqProducer\obj\Debug\netcoreapp3.0\RabbitMqProducer.pdb
